@@ -76,15 +76,28 @@ body, h1, h2, h3, h4, h5, h6 {
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+
 .intro-content .tel {
     color: #7DD6F3;
-    font-size: 2em;
+    font-size: 1em;
+    font-weight: 400;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+
+}
+
+
+.intro-content .mail {
+
+    color: #7DD6F3;
+    font-size: 3em;
     font-weight: 400;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
+
 .intro-content .address {
     color: #fff;
-    font-size: 1.6em;
+    font-size: 1em;
     font-weight: 400;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
